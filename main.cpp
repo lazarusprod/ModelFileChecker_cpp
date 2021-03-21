@@ -3,7 +3,7 @@
 int main() {
 
     ReadModelFile rmf;
-    rmf.readTheFile("/users/rene/Desktop/Solo_12.cfg");
+    rmf.readTheFile("");
 
     return 0;
 }
